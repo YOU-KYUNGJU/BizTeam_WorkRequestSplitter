@@ -7,9 +7,11 @@ __pycache__/
 build/
 dist/
 
+config.ini
+config/*.ini
+
 src/__pycache__/
 src/logs/
 src/split_output/
 src/config.ini
 src/tkinter/
-
