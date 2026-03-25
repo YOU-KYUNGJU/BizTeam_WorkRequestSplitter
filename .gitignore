@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+.venv313/
+
+build/
+dist/
+
+src/__pycache__/
+src/logs/
+src/split_output/
+src/config.ini
+src/tkinter/
+
